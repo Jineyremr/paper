@@ -53,7 +53,7 @@
 
 #### 处方开立
 
-![处方开立用例](E:\paper\处方开立用例.png)
+![https://github.com/Jineyremr/paper/blob/master/%E5%A4%84%E6%96%B9%E5%BC%80%E7%AB%8B%E7%94%A8%E4%BE%8B.png]()
 
 ### 系统的非功能性需求
 
